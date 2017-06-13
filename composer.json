@@ -1,0 +1,13 @@
+{
+    "name": "hiroyujin/yoshi-notification",
+    "description": "Library to send notifications to Yoshi application",
+    "authors": [
+        {
+            "name": "Bruno Yoshihiro",
+            "email": "bruno@yoshihiro.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=5.2"
+    }
+}
