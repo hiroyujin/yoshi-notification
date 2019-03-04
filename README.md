@@ -34,7 +34,7 @@ YoshiNotification::send("Your notification",[
 ]);
 ```
 
-### Optional options
+### Optional
 |Param        |Default          |Description              |
 |:------------|:----------------|:------------------------|
 |style        |primary          |style of your notification. Options: `primary`, `success`, `info`, `warning`, `danger` |
